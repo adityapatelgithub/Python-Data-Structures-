@@ -1,6 +1,5 @@
 """This file contains class definition of Stack. Stack follows Last In First
-Out (LIFO) implementation. Queues follow First In First Out (FIFO)
-implementation. ArrayStack uses Python List to implement stack.
+Out (LIFO) implementation. ArrayStack uses Python List to implement stack.
 LinkedListStack uses Linked Lists to implement stack"""
 
 class ArrayStack:
